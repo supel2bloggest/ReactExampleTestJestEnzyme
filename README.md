@@ -9,7 +9,7 @@
 ## Code การทำ TDD
 เข้าไปดู code ได้ที่ App.test.js
 
-# ก่อนติดตั้ง install node หรือ yarn ก่อน นะจ๊ะ
+### ก่อนติดตั้ง install node หรือ yarn ก่อน นะจ๊ะ
 
 ## วิธี ติดตั้ง เข้าไปที่ folder หลัก พิมพ์คำสั่ง
 npm install
